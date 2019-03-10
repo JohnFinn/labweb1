@@ -26,6 +26,7 @@
 
 .description {
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0e/Recognition_of_the_Duke_of_Anjou_as_King_of_Spain.png);
+    background-repeat: no-repeat;
     height: 500px;
     padding: 10px;
     margin: 2px;
